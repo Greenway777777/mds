@@ -31,8 +31,7 @@ export default {
     return {
       navList: [
         {name: '/index', navItem: '首页'},
-        {name: '/maintain', navItem: '维修申请'},
-        {name: '/medical', navItem: '医疗器械'},
+        {name: '/library', navItem: '图书管理'},
         {name: '/admin', navItem: '个人中心'}
       ],
       keywords: '',

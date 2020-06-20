@@ -8,31 +8,31 @@
       <el-timeline>
         <el-timeline-item timestamp="2020/5/30" placement="top">
           <el-card>
-            <h4>某地某医院XXXXXXXXXXX</h4>
+            <h4>某地某XXXXXXXXXXX</h4>
             <p>admin 提交于 2020/5/30 21:32</p>
           </el-card>
         </el-timeline-item>
         <el-timeline-item timestamp="2020/5/27" placement="top">
           <el-card>
-            <h4>某地某医院XXXXXXXXXXX</h4>
+            <h4>某地某XXXXXXXXXXX</h4>
             <p>admin 提交于 2020/5/27 09:02</p>
           </el-card>
         </el-timeline-item>
         <el-timeline-item timestamp="2020/5/26" placement="top">
           <el-card>
-            <h4>某地某医院XXXXXXXXXXX</h4>
+            <h4>某地某XXXXXXXXXXX</h4>
             <p>admin 提交于 2020/5/26 22:10</p>
           </el-card>
         </el-timeline-item>
         <el-timeline-item timestamp="2020/5/25" placement="top">
           <el-card>
-            <h4>某地某医院XXXXXXXXXXX</h4>
+            <h4>某地某XXXXXXXXXXX</h4>
             <p>admin 提交于 2020/5/25 19:51</p>
           </el-card>
         </el-timeline-item>
         <el-timeline-item timestamp="2020/5/20" placement="top">
           <el-card>
-            <h4>某地某医院XXXXXXXXXXX</h4>
+            <h4>某地某XXXXXXXXXXX</h4>
             <p>admin 提交于 2020/5/20 22:52</p>
           </el-card>
         </el-timeline-item>

@@ -5,7 +5,7 @@
       <a href="#header-div">
         <el-menu-item index="1">
           <i class="el-icon-menu"></i>
-          <span slot="title">医疗征信</span>
+          <span slot="title">图书周报</span>
         </el-menu-item>
       </a>
       <a href="#update-card">
